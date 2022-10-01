@@ -8,10 +8,9 @@
 ![Seong Ho's GitHub stats](https://github-readme-stats.vercel.app/api?username=OOOIOOOIO&show_icons=true&theme=buefy)
 
 <div align=center>
-  <h2> Skill</h2>
+  <h1> Skill</h1>
 </div>
 
-<br>
 <div align=left>
   <div><h3> ● Back-end & DataBase</h3></div>
   &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
