@@ -5,6 +5,10 @@
 - 📫 How to reach me: polite159@gmail.com
 - ⚡My Resume :
 -->
+
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=SeongHo&nbsp;Kim&fontSize=90)
+
+
 ![Seong Ho's GitHub stats](https://github-readme-stats.vercel.app/api?username=OOOIOOOIO&show_icons=true&theme=buefy)
 
 <!--
