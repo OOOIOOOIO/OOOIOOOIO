@@ -14,7 +14,7 @@
 
 ![Seong Ho's GitHub stats](https://github-readme-stats.vercel.app/api?username=OOOIOOOIO&show_icons=true&theme=buefy)
 
-- ⚡My Resume : https://www.notion.so/d4f8e2abc6f74cdb979d4277c08ea2e5
+- ⚡My Resume : 
 <!--
 <div align=center>
   <h1> Skill</h1>
