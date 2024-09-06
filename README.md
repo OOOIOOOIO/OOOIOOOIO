@@ -14,7 +14,7 @@
 
 ![Seong Ho's GitHub stats](https://github-readme-stats.vercel.app/api?username=OOOIOOOIO&show_icons=true&theme=buefy)
 
-- ⚡My Resume : 
+- ⚡My Resume : https://bony-sneezeweed-ed2.notion.site/8e0ce1ad5dd8454eabb8a6d54e824943
 <!--
 <div align=center>
   <h1> Skill</h1>
